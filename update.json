@@ -1,7 +1,8 @@
+
 {
-  "versionCode": 115,
-  "versionName": "10.2.11",
-  "title": "PRDA S&T V10.2.11",
-  "message": "현재 최신 버전입니다.",
+  "versionCode": 119,
+  "versionName": "10.2.15",
+  "title": "PRDA S&T V10.2.15",
+  "message": "새 버전 감지 기능 테스트입니다. 실제 APK 설치는 진행하지 않습니다.",
   "apkUrl": ""
 }
