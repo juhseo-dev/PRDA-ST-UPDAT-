@@ -1,8 +1,6 @@
-
 {
-  "versionCode": 119,
-  "versionName": "10.2.15",
-  "title": "PRDA S&T V10.2.15",
-  "message": "새 버전 감지 기능 테스트입니다. 실제 APK 설치는 진행하지 않습니다.",
-  "apkUrl": ""
+  "versionCode": 121,
+  "versionName": "10.2.17",
+  "apkUrl": "",
+  "message": "PRDA S&T V10.2.17 업데이트 감지 테스트"
 }
